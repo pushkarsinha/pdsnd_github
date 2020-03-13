@@ -14,3 +14,4 @@ bikeshare.py
 Data provided by Udacity. 
 
 SECTION III: Additional Changes to Documentation
+SECTION IV: Refactor Code
